@@ -1,0 +1,6 @@
+{
+  "name": "Copilot Studio Agent Explorer",
+  "description": "An interactive educational app to explore and learn about Microsoft Copilot Studio agent types: Custom, Declarative, and Embedded.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
